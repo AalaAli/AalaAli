@@ -2,12 +2,10 @@
 <h3 align="center">🖥️ Computer Science Student | 🌍 Libyan Developer | React Enthusiast</h3>
 
 ---
-[![Portfolio](https://img.shields.io/badge/🚀_Visit_My_Portfolio-FF6B6B?style=for-the-badge)](https://aalaali.github.io)
 
 ### 🚀 Featured Projects
 
 [![Weather App](https://img.shields.io/badge/🔮-Weather_App-00C8BD?style=flat-square)](https://github.com/AalaAli/weather-app)
-[![Portfolio](https://img.shields.io/badge/🎨-Portfolio-FF6B6B?style=flat-square)](https://aalaali.github.io)
 *More projects coming soon!*
 
 ---
@@ -57,6 +55,6 @@
 
 ### 💡 Fun Facts
 - 🔭 Currently building: A React-based portfolio
-- 🎯 2023 Goal: Contribute to open source
+- 🎯 2025 Goal: Learn Backend development
 - 🎵 Coding soundtrack: Lo-fi beats
 - 🌱 Secret Skill: Can debug CSS in my sleep 😴
