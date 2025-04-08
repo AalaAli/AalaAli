@@ -2,6 +2,7 @@
 <h3 align="center">🖥️ Computer Science Student | 🌍 Libyan Developer | React Enthusiast</h3>
 
 ---
+[![Portfolio](https://img.shields.io/badge/🚀_Visit_My_Portfolio-FF6B6B?style=for-the-badge)](https://aalaali.github.io)
 
 ### 🚀 Featured Projects
 
@@ -44,10 +45,15 @@
 
 [![Gmail](https://img.shields.io/badge/-📧_Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:aalashetwan@gmail.com)
 [![Facebook](https://img.shields.io/badge/-📘_Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/aalashetwan)
-[![LinkedIn](https://img.shields.io/badge/-💼_LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile) *← Add yours!*
 
 ---
 ![Visitor Count](https://komarev.com/ghpvc/?username=AalaAli&color=00C8BD&style=flat-square)
+
+### 🎯 2025 Goals
+- [x] Complete React Fundamentals
+- [ ] Build 5 projects
+- [ ] Learn TypeScript
+---
 
 ### 💡 Fun Facts
 - 🔭 Currently building: A React-based portfolio
