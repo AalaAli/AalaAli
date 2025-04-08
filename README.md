@@ -1,18 +1,56 @@
-<h1 align="center">Hi 👋, I'm Aala Shetwan</h1>
-<h3 align="center">A passionate CS student from Libya</h3>
+<h1 align="center">👋 Hello World! I'm Aala Shetwan</h1>
+<h3 align="center">🖥️ Computer Science Student | 🌍 Libyan Developer | React Enthusiast</h3>
 
-- 🌱 I’m currently learning **React on https://scrimba.com/learn-react-c0e**
+---
 
-- 📫 How to reach me **aalashetwan@gmail.com**
+### 🚀 Featured Projects
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/aala shetwan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aala shetwan" height="30" width="40" /></a>
-</p>
+[![Weather App](https://img.shields.io/badge/🔮-Weather_App-00C8BD?style=flat-square)](https://github.com/AalaAli/weather-app)
+[![Portfolio](https://img.shields.io/badge/🎨-Portfolio-FF6B6B?style=flat-square)](https://aalaali.github.io)
+*More projects coming soon!*
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aalaali&show_icons=true&locale=en&layout=compact" alt="aalaali" /></p>
+### 🛠️ Tech Stack
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aalaali&show_icons=true&locale=en" alt="aalaali" /></p>
+#### **Frontend**
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+
+#### **Tools & Design**
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+
+#### **Learning Now**
+![React](https://img.shields.io/badge/-React_Scrimba_Course-FF4154?style=for-the-badge&logo=react&logoColor=white)
+
+---
+
+### 📈 GitHub Stats
+
+<div align="center">
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AalaAli&layout=compact&theme=radical)](https://github.com/AalaAli)
+  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AalaAli&theme=radical)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+### 🌟 Let's Connect!
+
+[![Gmail](https://img.shields.io/badge/-📧_Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:aalashetwan@gmail.com)
+[![Facebook](https://img.shields.io/badge/-📘_Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/aalashetwan)
+[![LinkedIn](https://img.shields.io/badge/-💼_LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile) *← Add yours!*
+
+---
+![Visitor Count](https://komarev.com/ghpvc/?username=AalaAli&color=00C8BD&style=flat-square)
+
+### 💡 Fun Facts
+- 🔭 Currently building: A React-based portfolio
+- 🎯 2023 Goal: Contribute to open source
+- 🎵 Coding soundtrack: Lo-fi beats
+- 🌱 Secret Skill: Can debug CSS in my sleep 😴
